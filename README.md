@@ -1,0 +1,3 @@
+- Works for Blender v4.5+
+- Render the top Layers of all Grease Pencil Objects
+- Exported in "export" folder in the same path as your .blend file
